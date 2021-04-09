@@ -1,0 +1,40 @@
+{
+    "name": "sdk-starter",
+    "version": "0.0.0",
+    "description": "Scaffold a Plugin.IO app with zero build configuration.",
+    "workspaces": [
+        "packages/*"
+    ],
+    "keywords": [
+      "plugin.io",
+      "pluginio",
+      "plugin",
+      "pwa",
+      "app",
+      "sdk",
+      "monetize",
+      "monetise",
+      "ads",
+      "ad",
+      "advert",
+      "nft",
+      "blockchain",
+      "crypto",
+      "payment",
+      "scaffold",
+      "template"
+    ],
+    "author": "Gary Paluk",
+    "license": "MIT",
+    "publishConfig": {
+      "registry": "https://registry.npmjs.org"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pluginio/sdk-starter.git"
+    },
+    "bugs": {
+      "url": "https://github.com/pluginio/sdk-starter/issues"
+    },
+    "homepage": "https://github.com/pluginio/sdk-starter#readme"
+}

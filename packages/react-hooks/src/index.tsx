@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { PluginProvider } from '@pluginio/sdk-react';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <PluginProvider>
+      <App />
+    </PluginProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -2,9 +2,6 @@
     "name": "sdk-starter",
     "version": "0.0.0",
     "description": "Scaffold a Plugin.IO app with zero build configuration.",
-    "workspaces": [
-        "packages/*"
-    ],
     "keywords": [
       "plugin.io",
       "pluginio",

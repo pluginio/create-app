@@ -5,7 +5,7 @@ Scaffold a Plugin.IO app with zero build configuration
 
 ### Example
 
-`npx degit pluginio/sdk-starter/packages/react-hooks#dev my-project`
+`npx degit pluginio/sdk-starter/react-hooks my-project`
 
 <a href="https://github.com/pluginio/sdk-starter/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pluginio/sdk-starter" />

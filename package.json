@@ -1,5 +1,5 @@
 {
-    "name": "sdk-starter",
+    "name": "create-app",
     "version": "0.0.0",
     "description": "Scaffold a Plugin.IO app with zero build configuration.",
     "keywords": [
@@ -28,10 +28,10 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/pluginio/sdk-starter.git"
+      "url": "git+https://github.com/pluginio/create-app.git"
     },
     "bugs": {
-      "url": "https://github.com/pluginio/sdk-starter/issues"
+      "url": "https://github.com/pluginio/create-app/issues"
     },
-    "homepage": "https://github.com/pluginio/sdk-starter#readme"
+    "homepage": "https://github.com/pluginio/create-app#readme"
 }

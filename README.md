@@ -11,4 +11,4 @@ Scaffold a Plugin.IO app with zero build configuration
   <img src="https://contrib.rocks/image?repo=pluginio/create-app" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contributors-img](https://contrib.rocks)
